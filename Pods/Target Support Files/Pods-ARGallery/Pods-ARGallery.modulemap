@@ -1,0 +1,6 @@
+framework module Pods_ARGallery {
+  umbrella header "Pods-ARGallery-umbrella.h"
+
+  export *
+  module * { export * }
+}
